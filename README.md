@@ -9,11 +9,11 @@ https://github.com/evgenyneu/js-evaluator-for-android
 
 Evaluates Javascript in a WebView. Execution is asynchronous by default.
 
-### AndroidJSCore ###
+### LiquidCore ###
 
-https://github.com/ericwlange/AndroidJSCore
+https://github.com/LiquidPlayer/LiquidCore
 
-JavaScriptCore is the Javascript engine written in C, used in iOS 7 and above. AndroidJSCore is a JNI wrapper around this engine, packaged for Android.
+JavaScriptCore is the Javascript engine written in C, used in iOS 7 and above. LiquidCore is a JNI wrapper around this engine, packaged for Android.
 
 ### J2V8 ###
 
